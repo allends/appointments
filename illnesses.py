@@ -1,0 +1,12 @@
+from enum import Enum
+class illness(Enum):
+  CIRCULATORY = 1
+  DIGESTIVE = 2
+  RESPITORY = 3
+  INJURY = 4
+  MUSCOSKELETAL = 5
+  NEOPLASMS = 6
+  GENITIUINARY = 7
+  PARASITE = 8
+  NUTRITIONAL = 9
+
